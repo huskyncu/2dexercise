@@ -148,8 +148,6 @@ d={
        病患1名字:{病患1資料},
        病患2名字:{病患2資料},
        ...
-     },
-  ...
 }
 ```
 * 請在[colab](https://colab.research.google.com/drive/1sM30Ga-AttGDwTGzuKJsv9TXZPAN0Wcl?usp=sharing)上完成本階段。
@@ -269,7 +267,7 @@ def to_csv(lines):
         mywriter.writerows(lines)
 ```
 
-## 模組化(單元五，可做可不做)
+## 模組化(單元五)
 請你創立一些py檔，分別將def 移過去
 * main_.py
     * 原本的while True迴圈

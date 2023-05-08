@@ -1,4 +1,4 @@
-# Project1
+# Panda Project
 ###### tags: `合太醬`
 
 ## 題目：
@@ -38,7 +38,7 @@
     Isabelle 風濕性疾病 81 女 Levofloxacin 0 阿基里斯腱
     ```
 * 你可以透過各種方式，儲存資料，但是必須讓程式能夠無限執行。
-### part1: 程式實踐功能：查詢功能
+## part1: 程式實踐功能：查詢功能
 * 查詢名字後，需印出患者資料。
 * 以anna來說，那就需印出Anna的DataFrame：
 ![](https://hackmd.io/_uploads/B13medmE3.png)
@@ -57,8 +57,7 @@
 
 去篩選出你想要的資料用dataframe顯示出來
 
-    範例輸出：
-
+範例輸出：
     ![](https://hackmd.io/_uploads/ryUsxYXNn.png)
 
 
@@ -102,6 +101,14 @@ while True:
 在
 * 本階段請在[colab](https://colab.research.google.com/drive/1_TzpIhH7B70NHuQPkITB-eG8luocM6A6?usp=sharing)上完成。
 
+## 評分標準
+
+* 一維變二維 5%
+* Dataframe 10%
+* 查詢功能 15%
+* 篩選功能 30%
+* 排序功能 20%
+* 分析數據 20%
 
 <!-- ## 函式化(單元五)
 同樣也是將以前的那些功能都改成函式來寫。
